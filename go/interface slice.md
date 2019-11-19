@@ -1,13 +1,3 @@
----
-title: "InterfaceSlice"
-date: 2019-08-02T17:06:07+08:00
-draft: false
-comments: true
-tags: ["go","翻译"]
----
-
-<!--more-->
-
 ## [译]*InterfaceSlice*
 
 

@@ -1,14 +1,3 @@
----
-title: "Go test中鲜为人知的功能"
-date: 2019-08-02T17:06:07+08:00
-draft: false
-comments: true
-tags: ["medium","翻译"]
-
----
-
-<!--more-->
-
 ## [译]Go test中鲜为人知的功能
 
 

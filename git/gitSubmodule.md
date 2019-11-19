@@ -1,13 +1,3 @@
----
-title: "Git Submodule(子模块)"
-date: 2019-09-20T17:13:14+08:00
-draft: false
-comments: true
-tags: ["git"]
----
-
-<!--more-->
-
 ### 什么是子模块 
 
 子模块是在主项目中，使用其他项目作为主项目的一个附属目录

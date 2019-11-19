@@ -1,13 +1,3 @@
----
-title: "CodeReviewComments"
-date: 2019-09-23T18:22:39+08:00
-draft: true
-comments: true
-tags: ["go", "代码规范"]
----
-
-<!--more-->
-
 ## [译] Go Code Review Comments
 
 
